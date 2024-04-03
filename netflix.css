@@ -1,0 +1,106 @@
+#Netflixprincipal{
+width: 200px;
+}
+
+header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1621955964441-c173e01c135b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV0ZmxpeHxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+    color: aliceblue;
+    
+}
+ 
+select{
+    padding: 5px 15px;
+    font-size: 16px;
+   background-color: rgba(0, 0, 0, 0.692);
+   color: white;
+   background-image: url(/style/no-mundo-todo.png);
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: 20px;
+   
+
+   
+   
+
+}
+    
+#btn-entrar{
+    padding: 7px 15px;
+    font-size: 16px;
+    background-color: #e50914;;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    margin: 15px;
+    cursor: pointer;
+
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.719);
+   width: fit-content;
+   margin-left: 500px;
+   border-radius: 10px;
+   padding: 100px 20px ;
+}
+
+.vamola{
+    
+    padding: 10px 10px;
+    display: block;
+    border-radius: 5px;
+   background-color: #333333;
+   border: none;
+
+   
+}
+
+.vamola2{
+    
+    padding: 10px 10px;
+    border-radius: 5px;
+   background-color: #333333;
+   border: none;
+   
+   
+}
+
+#entrar{
+    background-color: #e50914;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+#TITE{
+   
+    margin: 0 auto;
+    display: flex;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    
+}
